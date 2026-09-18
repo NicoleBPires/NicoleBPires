@@ -1,7 +1,5 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=200&section=header&text=Nicole%20Bueno%20Pires&fontSize=40&fontColor=FFFFFF&animation=twinkling"/>
-  
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=200&section=header&text=Nicole%20Bueno%20Pires&fontSize=40&fontColor=FFFFFF&animation=twinkling"/>
 </div> 
 
 <div align="center">
