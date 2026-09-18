@@ -30,20 +30,16 @@ n8n          <br>
 <br>
 📊 Dados e ferramentas: <br> 
 Excel  <br> 
-Power BI  <br> 
 MySQL  <br> 
 SQLite  <br> 
 <br> 
 📖Próximos passos:
 <br>
   Machine Learning <br>
+  Power BI <br>
   C# <br>
   Java <br>
 <br>  
-🤖 Ferramentas/IA:
- <br>
-Claude   <br>
- Machine Learning <br>
 <br>
 📧 Email:<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nicolebuenop@gmail.com&su=Contato%20pelo%20GitHub&body=Ol%C3%A1%2C%20Nicole!%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato." target="_blank">nicolebuenop@gmail.com</a>
 <br>
