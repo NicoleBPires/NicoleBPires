@@ -5,6 +5,12 @@
 <div align="center">
  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=3000&color=E9D5FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Nicole+Bueno">
 <br>
+ 🌷 Sobre mim:
+
+Sou estudante de Engenharia de Software, atualmente desenvolvendo meus conhecimentos
+em programação, dados e automação. Estou sempre buscando aprender
+novas tecnologias e transformar ideias em projetos.
+<br>
 💻 Tecnologias:
   <br>
 <br>  
@@ -22,7 +28,13 @@ APIs          <br>
 TypeScript    <br>
 n8n          <br> 
 <br>
-📖Futuramente:
+📊 Dados e ferramentas: <br> 
+Excel  <br> 
+Power BI  <br> 
+MySQL  <br> 
+SQLite  <br> 
+<br> 
+📖Próximos passos:
 <br>
   Machine Learning <br>
   C# <br>
@@ -33,7 +45,7 @@ n8n          <br>
 Claude   <br>
  Machine Learning <br>
 <br>
-📧 Email:nicolebuenop@gmail.com 
+📧 Email:<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nicolebuenop@gmail.com&su=Contato%20pelo%20GitHub&body=Ol%C3%A1%2C%20Nicole!%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato." target="_blank">nicolebuenop@gmail.com</a>
 <br>
 💼Meu LinkedIn: <a href="https://www.linkedin.com/in/nicole-bueno-759a1229a" target="_black"> Nicole Bueno</a>
 
