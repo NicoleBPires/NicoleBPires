@@ -1,8 +1,9 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=200&section=header&text=Nicole%20Bueno%20Pires&fontSize=40&fontColor=FFFFFF&animation=twinkling"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=100&section=header"/>
 </div> 
 
 <div align="center">
+<br>
 💻 Tecnologias:
   <br>
 <br>  
@@ -24,4 +25,5 @@ Git & GitHub  ████████████░░░░░░░░  60%<
 📧 Email:nicolebuenop@gmail.com 
 <br>
 💼Meu LinkedIn: <a href="htpps://www.linkedin.com/in/nicole-bueno-759a1229a" target="_black"> Nicole Bueno</a>
+
 </div>
