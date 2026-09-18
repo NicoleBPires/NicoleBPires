@@ -43,6 +43,6 @@ SQLite  <br>
 <br>
 📧 Email:<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nicolebuenop@gmail.com&su=Contato%20pelo%20GitHub&body=Ol%C3%A1%2C%20Nicole!%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato." target="_blank">nicolebuenop@gmail.com</a>
 <br>
-💼Meu LinkedIn: <a href="https://www.linkedin.com/in/nicole-bueno-759a1229a" target="_black"> Nicole Bueno</a>
+💼Meu LinkedIn: <a href="www.linkedin.com/in/nicole-buenop" target="_black"> Nicole Bueno</a>
 
 </div>
